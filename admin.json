@@ -1,0 +1,38 @@
+Sirin = {
+
+		1267696895; -- zee
+		454093981; -- kiri
+		185380530; -- mhja (staff)
+		2555508407; -- rin
+		430273842; -- cory
+		1066538385; -- peace
+
+	};		
+	Admin = {--Dont forget to put names or get removed
+
+		1267696895; -- zee
+		185380530; -- mhja (staff)
+		3712253529; -- Xeno
+		2339425810; -- ward
+		118537809; -- juju
+		454093981; -- kiri
+		1777440378; -- lxqs
+		1524868277; -- kan
+		1023167627; -- manman
+		2555508407; -- rin
+		430273842; -- cory
+		1066538385; -- peace
+
+
+	};
+	RestrictedMenu = { -- functioning
+		0; -- ???
+	};
+	Moderator = {
+		0; --
+		
+	};
+	HeadModerator = {
+		0; -- ???
+		
+	}	
